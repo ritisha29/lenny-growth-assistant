@@ -1,6 +1,9 @@
 
 ### 4. `README.md`
 
+YOUTUBE DEMO VIDEO LINK
+https://youtu.be/Wo-NlcREc9A
+
 ```markdown
 # Lenny Growth Assistant
 
